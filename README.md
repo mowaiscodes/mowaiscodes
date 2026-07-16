@@ -19,9 +19,8 @@
 ```yaml
 name: Muhammad Owais
 role: Full-Stack Software Engineer
-location: Peshawar, Pakistan
+location: Islamabad, Pakistan
 current_focus: Building business applications across ERP, E-Commerce, SaaS & Travel domains
-currently_at: IT Artificer
 education: BS Computer Science, University of Peshawar (2020 - 2024)
 fun_fact: I turn messy requirements into clean, production-ready code ⚡
 ```
